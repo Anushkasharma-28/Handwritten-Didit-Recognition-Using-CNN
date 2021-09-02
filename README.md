@@ -1,0 +1,2 @@
+# Handwritten-Didit-Recognition-Using-CNN
+A Convolutional Neural Network model created using Tensorflow library over the MNIST dataset to recognize . It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9. handwritten digits .A convolutional neural network (CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various objects in the image and be able to differentiate one from the other.
